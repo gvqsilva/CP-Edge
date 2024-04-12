@@ -17,7 +17,7 @@
 -	Resistores (para limitar a corrente dos LEDs);
 -	LEDs verde, amarelo e vermelho;
 -	Buzzer (para alerta sonoro).
-  ![image](https://github.com/gvqsilva/CP1-Edge-Computing/assets/110639916/c431f9ab-4428-4084-a8c0-479cf7790dee)
+![image](https://github.com/gvqsilva/CP1-Edge-Computing/assets/110639916/c431f9ab-4428-4084-a8c0-479cf7790dee)
 
 *Figura 1 - Lista de componentes utilizados*
 
