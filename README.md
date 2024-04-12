@@ -64,3 +64,8 @@
 **Código do Programa:**
 
 https://github.com/gvqsilva/CP-Edge/blob/main/sketch_apr12a.ino
+
+
+**Explicação do projeto:**
+
+https://youtu.be/0N-_dDu8mqs?si=dZSneTUiGylJYa82
