@@ -17,7 +17,7 @@
 -	Resistores (para limitar a corrente dos LEDs);
 -	LEDs verde, amarelo e vermelho;
 -	Buzzer (para alerta sonoro).
-![image](https://github.com/gvqsilva/CP1-Edge-Computing/assets/110639916/c431f9ab-4428-4084-a8c0-479cf7790dee)
+![image](https://github.com/gvqsilva/CP1-Edge/assets/110639916/c431f9ab-4428-4084-a8c0-479cf7790dee)
 
 *Figura 1 - Lista de componentes utilizados*
 
@@ -31,7 +31,7 @@
 **3º-** Carregue o código fonte (controle_luminosidade.ino) para o seu Arduino utilizando a IDE do Arduino;
 
 **4º-** Conecte os LEDs e o buzzer ao circuito, garantindo a polaridade correta.
-![image](https://github.com/gvqsilva/CP1-Edge-Computing/assets/110639916/5091f683-f54b-4535-a3be-0b0084673d49)
+![image](https://github.com/gvqsilva/CP1-Edge/assets/110639916/5091f683-f54b-4535-a3be-0b0084673d49)
 
 *Figura 2 - Esquema para montagem de circuito*
 
@@ -42,7 +42,7 @@
 
 **1º-** O sensor LDR irá detectar a luminosidade ambiente.
 
-![image](https://github.com/gvqsilva/CP1-Edge-Computing/assets/110639916/6c533726-7950-4f31-bc49-076519c88e7a)
+![image](https://github.com/gvqsilva/CP1-Edg/assets/110639916/6c533726-7950-4f31-bc49-076519c88e7a)
 
 *Figura 3 - Onde iniciar a simulação do projeto*
 
@@ -51,7 +51,7 @@
 
 
 **2º-** Com base na leitura do sensor, o Arduino acionará os LEDs verde, amarelo ou vermelho conforme o estado de luminosidade.
-![image](https://github.com/gvqsilva/CP1-Edge-Computing/assets/110639916/af91e99b-86f1-44ec-a8ec-637cdd4f9c6d)
+![image](https://github.com/gvqsilva/CP1-Edge/assets/110639916/af91e99b-86f1-44ec-a8ec-637cdd4f9c6d)
 
 *Figura 4 - Mostrando o valor e porcentagem da luminosidade *
 
