@@ -1,10 +1,19 @@
+<p align='center'>
+  <img loading="lazy" src = "https://github.com/gvqsilva/CP-Edge/assets/110639916/e44b584a-f189-41b0-9876-63ff29b3bed5"/>
+</p>
 <h1 align="center">Sistema de Controle de Luminosidade do Ambiente</h1>
 
+# Índice
 
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Funcionalidades](#funcionalidades)
+* [Como usar](#como-usar)
+  
+<h2 id="Descrição do Projeto">Descrição do projeto:</h2>
   Este é um projeto de sistema de controle de luminosidade do ambiente utilizando um sensor LDR (Light Dependent Resistor), uma placa Arduino Uno R3 e LEDs indicadores de status. O sistema é projetado para indicar visualmente o nível de luminosidade do ambiente, utilizando LEDs verde, amarelo e vermelho para representar diferentes estados de luminosidade. Além disso, um buzzer é acionado por 3 segundos em caso de nível crítico de luminosidade.
 
 
-**Funcionalidades:**
+<h2 id="Funcionalidades">Funcionalidades:</h2>
 
 - Medição contínua da luminosidade ambiente utilizando um sensor LDR;
 - Indicação visual do estado de luminosidade utilizando LEDs verde, amarelo e vermelho;
@@ -43,7 +52,9 @@
 
 *Figura 3 - Visão do esquema*
 
-**Uso:**
+
+
+# Como usar:
 
 
 
@@ -66,6 +77,6 @@
 https://github.com/gvqsilva/CP-Edge/blob/main/sketch_apr12a.ino
 
 
-**Explicação do projeto:**
+**Vídeo do projeto:**
 
 https://youtu.be/0N-_dDu8mqs?si=dZSneTUiGylJYa82
