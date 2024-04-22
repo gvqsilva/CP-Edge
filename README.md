@@ -1,4 +1,4 @@
-**Sistema de Controle de Luminosidade do Ambiente**
+<h1 align="center">Sistema de Controle de Luminosidade do Ambiente</h1>
 
 
   Este é um projeto de sistema de controle de luminosidade do ambiente utilizando um sensor LDR (Light Dependent Resistor), uma placa Arduino Uno R3 e LEDs indicadores de status. O sistema é projetado para indicar visualmente o nível de luminosidade do ambiente, utilizando LEDs verde, amarelo e vermelho para representar diferentes estados de luminosidade. Além disso, um buzzer é acionado por 3 segundos em caso de nível crítico de luminosidade.
